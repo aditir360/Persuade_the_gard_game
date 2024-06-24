@@ -1,2 +1,2 @@
-# Persuade_the_gard_game
+# Persuade_the_guard_game
 AI based text game
